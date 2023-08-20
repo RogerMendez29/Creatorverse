@@ -1,0 +1,9 @@
+.card-container {
+  border: 2px solid;
+  height: 200px;
+  width: 300px;
+  margin: 25px;
+  border-radius: 5%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
